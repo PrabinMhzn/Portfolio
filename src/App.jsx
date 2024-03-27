@@ -3,6 +3,7 @@ import NavBar from './components/NavBar'
 import Home from './components/Home';
 import SocialLinks from './components/SocialLinks';
 import AboutUs from './components/AboutUs';
+import Portfolio from './components/Portfolio';
 
 
 function App() {
@@ -12,8 +13,13 @@ function App() {
    <div>
     <NavBar />
     <Home/>
-    <SocialLinks /> 
+   
     <AboutUs/>
+    <Portfolio />
+
+    <SocialLinks /> 
+
+    
   
    </div>
   )
