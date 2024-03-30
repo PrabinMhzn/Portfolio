@@ -13,7 +13,7 @@ const AboutUs = () => {
                 </p>
         </div>
         <p className='text-xl mt-20'>
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat fuga eos beatae ut? Totam doloremque voluptates dignissimos libero atque ex tenetur? Facere eius sint qui quas quidem, voluptatibus totam consequuntur deleniti omnis iure dolorum impedit at dolore consequatur, tempore optio explicabo inventore ullam veniam, quis earum voluptatem cum nisi? Iste?
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam sapiente suscipit quod nisi obcaecati quam a! Libero facilis sint repellendus. Laudantium, praesentium dolor recusandae ea fugit, facilis tenetur autem animi assumenda, soluta eius quidem! Hic fuga beatae dolorem exercitationem commodi officiis nisi, fugit delectus sapiente animi quis facere! Consectetur, dolores.
         </p>
         <br />
         <p className=' text-xl'>
