@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "",
+      href: "https://www.linkedin.com/in/prabin-maharjan93/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "",
+      href: "https://github.com/PrabinMhzn",
     },
     {
       id: 3,
