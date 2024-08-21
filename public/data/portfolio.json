@@ -16,21 +16,21 @@
   {
     "id": 3,
     "src": "data/flower.jpg",
-    "title": "Blah",
+    "title": "Project1",
     "demoUrl": "#",
     "codeUrl": "https://example.com/code3"
   },
   {
     "id": 4,
     "src": "data/junction.jpg",
-    "title": "Blah",
+    "title": "Project 2",
     "demoUrl": "https://example.com/demo4",
     "codeUrl": "https://example.com/code4"
   },
   {
     "id": 5,
     "src": "data/pattaya.jpg",
-    "title": "Blah",
+    "title": "Project 3",
     "demoUrl": "https://example.com/demo5",
     "codeUrl": "https://example.com/code5"
   }
