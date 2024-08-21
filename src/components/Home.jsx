@@ -21,11 +21,7 @@ const Home = () => {
       <div className=" max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h1 className="text-4xl sm:text-7xl text-white font-bold">
-            Hi. I am{" "}
-            <span className="text-lime-500 hover:text-fuchsia-400 hover:scale-125 duration-300 hover:cursor-pointer">
-              Prabin Maharjan
-            </span>
-            .
+
           </h1>
           <h2 className=" text-4xl sm:text-6xl font-bold text-white">
             Front-End Developer
@@ -39,9 +35,9 @@ const Home = () => {
           </p>
 
           <div className="flex gap-8">
-            <button
+            <button 
               className=" group text-white w-fit px-6 py-3  flex items-center rounded-full bg-gradient-to-r from-cyan-400 to-lime-400 hover:from-cyan-500 hover:to-lime-500 hover:scale-110 transition duration-500 hover:shadow-2xl hover:shadow-lime-500 cursor-pointer font-medium "
-              onClick={handleNavigation}
+              onClick={<Link to= "/blogs"/>}
             >
               Portfolio
               <span className="group-hover:rotate-90 duration-300">
