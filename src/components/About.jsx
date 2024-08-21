@@ -28,9 +28,7 @@ const About = () => {
           projects, implementing responsive designs, and integrating features
           like Cart systems and Receipt Scanner.
         </p>
-        <p className="text-xl mt-8 ">
-          
-        </p>
+        <p className="text-xl mt-8 "></p>
         <p className="text-xl mt-8">
           Let's bring your vision to life with modern design and technology!
         </p>
